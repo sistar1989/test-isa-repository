@@ -7,3 +7,9 @@ p {
     display: block;
     font-style: italic;
 }
+body {
+    color: red;
+}
+p {
+    color: blue;
+}
