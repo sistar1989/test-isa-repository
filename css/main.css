@@ -13,3 +13,6 @@ body {
 p {
     color: blue;
 }
+p.new-art {
+    color: green;
+}
